@@ -41,3 +41,19 @@ Berikut meruapkan diagram alir dari program Super Cashier yang dibuat:
 - main(): Merupakan metode utama yang berfungsi sebagai tampilan antarmuka pengguna dalam bentuk teks untuk berinteraksi dengan objek Transaction. Pengguna dapat memilih berbagai opsi seperti menambahkan, menghapus, mengupdate, atau memeriksa item dalam order_list serta menghitung total harga. Program akan terus berjalan hingga pengguna memilih untuk keluar (memilih opsi 9) dan memunculkan pesan terima kasih.
 
 ## Dokumentasi Code
+
+1. Definisikan beberapa metode (fungsi) yang dibutuhkan dalam program transaksi kita.
+<img width="1217" alt="Screenshot 2023-04-16 at 18 12 00" src="https://user-images.githubusercontent.com/123163060/232305516-1ccd5555-94fd-4d86-b275-6d40f8485c20.png">
+
+2. Definisikan semua fungsi yang dibutuhkan, mulai dari fungsi add_item hingga yang terakhir.
+<img width="1245" alt="Screenshot 2023-04-16 at 18 17 23" src="https://user-images.githubusercontent.com/123163060/232305819-57e1a3ca-082b-47de-87e1-c6e1d5549cb7.png">
+
+3. Masukkan perhitungan diskon terhadap barang yang sudah ditetapkan.
+<img width="1672" alt="Screenshot 2023-04-16 at 18 21 32" src="https://user-images.githubusercontent.com/123163060/232306800-443af1df-bd82-4825-86b2-e1ea871a1ae9.png">
+
+4. Fungsi loop dimulai.
+<img width="1670" alt="Screenshot 2023-04-16 at 18 23 04" src="https://user-images.githubusercontent.com/123163060/232306796-0b5fd664-73fe-48c1-a74e-ec6a19501af1.png">
+
+5. Program selesai ketika fungsi loop sudah dihentikan oleh konsumen. Terlihat juga apa yang bisa program lakukan apabila ada kesalahan dalam penginputan data oleh konsumen.
+<img width="1578" alt="Screenshot 2023-04-16 at 18 25 43" src="https://user-images.githubusercontent.com/123163060/232306760-449a7478-5e53-4558-ba28-376c045a6666.png">
+
