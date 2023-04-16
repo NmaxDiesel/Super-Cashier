@@ -57,3 +57,19 @@ Berikut meruapkan diagram alir dari program Super Cashier yang dibuat:
 5. Program selesai ketika fungsi loop sudah dihentikan oleh konsumen. Terlihat juga apa yang bisa program lakukan apabila ada kesalahan dalam penginputan data oleh konsumen.
 <img width="1578" alt="Screenshot 2023-04-16 at 18 25 43" src="https://user-images.githubusercontent.com/123163060/232306760-449a7478-5e53-4558-ba28-376c045a6666.png">
 
+## Hasil Test Case
+
+Berikut merupakan hasil test case program.
+1. Contoh kasusnya ialah pembeli ingin membeli Kopi Americano seharga Rp 20.000 sebanyak 2 item
+
+<img width="951" alt="Screenshot 2023-04-16 at 18 51 43" src="https://user-images.githubusercontent.com/123163060/232308099-357d7aac-47ce-47fc-87e8-c7350613a5a2.png">
+
+2. Konsumen ingin menampilkan total harga yang harus ia bayar. Program kemudian menampilkan nilainya.
+<img width="1676" alt="Screenshot 2023-04-16 at 18 56 48" src="https://user-images.githubusercontent.com/123163060/232308290-66b791cd-158d-48be-b827-96da3cfcefba.png">
+
+## Conclusion
+Program berhasil berfungsi dengan baik. Diketahui berdasarkan kemampuan program dalam memenuhi kebutuhan kebutuhan bisnis sang owner yaitu program sudah dapat membuatkan ID transaksi konsumen, dapat menginputkan nama item, jumlah item, harga barang yang ingin dibeli, dan juga dapat mengupdate elemen dalam pemesanan item konsumen. Program bisa melakukan pemeriksaan kembali dan menghitung diskon untuk costumer sesuai ketentuan yang sudah ditetapkan.
+
+## Future Work
+- Integrasi dengan Teknologi Canggih: Mengintegrasikan program kasir dengan teknologi canggih seperti Internet of Things (IoT), kecerdasan buatan (Artificial Intelligence/AI), dan pembelajaran mesin (Machine Learning/ML) untuk meningkatkan efisiensi dan akurasi transaksi. Contohnya, penggunaan sensor RFID untuk mengenali barang secara otomatis, penggunaan chatbot untuk melayani pelanggan, dan analisis data untuk mengidentifikasi tren dan pola pembelian pelanggan.
+- Analisis Data dan Pelaporan: Menyediakan fitur analisis data dan pelaporan yang canggih untuk membantu pemilik bisnis dalam mengambil keputusan berdasarkan data. Fitur ini dapat memberikan wawasan tentang performa penjualan, tren pembelian, stok barang, dan kebiasaan pelanggan, sehingga pemilik bisnis dapat membuat strategi yang lebih efektif untuk mengoptimalkan operasional dan meningkatkan keuntungan.
