@@ -39,3 +39,5 @@ Berikut meruapkan diagram alir dari program Super Cashier yang dibuat:
 - reset_transaction(self): Metode ini digunakan untuk menghapus semua item dalam order_list dan mengembalikan order_list menjadi sebuah kamus kosong.
 
 - main(): Merupakan metode utama yang berfungsi sebagai tampilan antarmuka pengguna dalam bentuk teks untuk berinteraksi dengan objek Transaction. Pengguna dapat memilih berbagai opsi seperti menambahkan, menghapus, mengupdate, atau memeriksa item dalam order_list serta menghitung total harga. Program akan terus berjalan hingga pengguna memilih untuk keluar (memilih opsi 9) dan memunculkan pesan terima kasih.
+
+## Dokumentasi Code
