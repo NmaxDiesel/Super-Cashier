@@ -16,5 +16,6 @@ Program ini dibuat dengan tujuan agar konsumen coffeeshop bisa berbelanja secara
 
 
 ## Flowchart Project
-Berikut meruapkan diagram alir dari program Super Cashier yang dibuat
+Berikut meruapkan diagram alir dari program Super Cashier yang dibuat:
+
 ![Flowchart Supercashier drawio](https://user-images.githubusercontent.com/123163060/232277631-d960f04f-3b93-4f68-99d2-8e6d7ab7f9e7.png)
