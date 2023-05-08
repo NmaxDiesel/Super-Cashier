@@ -61,7 +61,7 @@ Berikut meruapkan diagram alir dari program Super Cashier yang dibuat:
 ## Hasil Test Case
 
 Berikut merupakan hasil test case program.
-1. Contoh kasusnya ialah pembeli ingin membeli Kopi Americano seharga Rp 20.000 sebanyak 2 item
+1. Contoh kasusnya ialah ketika pembeli ingin membeli menu Kopi Americano seharga Rp 20.000 sebanyak 2 item.
 
 <img width="951" alt="Screenshot 2023-04-16 at 18 51 43" src="https://user-images.githubusercontent.com/123163060/232308099-357d7aac-47ce-47fc-87e8-c7350613a5a2.png">
 
