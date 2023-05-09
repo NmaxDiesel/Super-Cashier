@@ -22,6 +22,7 @@ Sebagai software engineer, saya diminta untuk membuatkan program dengan tujuan a
 Berikut meruapkan diagram alir dari program Super Cashier yang dibuat:
 
 ![Flowchart Supercashier drawio](https://user-images.githubusercontent.com/123163060/232277631-d960f04f-3b93-4f68-99d2-8e6d7ab7f9e7.png)
+made with appdiagrams
 
 ## Requirement Project
 
