@@ -43,6 +43,8 @@ Berikut meruapkan diagram alir dari program Super Cashier yang dibuat:
 
 ## Dokumentasi Code
 
+Platdorm yang saya gunakan ialah google colab.
+
 1. Definisikan beberapa metode (fungsi) yang dibutuhkan dalam program transaksi kita.
 <img width="1217" alt="Screenshot 2023-04-16 at 18 12 00" src="https://user-images.githubusercontent.com/123163060/232305516-1ccd5555-94fd-4d86-b275-6d40f8485c20.png">
 
