@@ -1,6 +1,6 @@
 # Super-Cashier-Python
 
-Cashier program written using python for customer self service system
+Cashier program written using python for customer self service system.
 
 ![3844294](https://user-images.githubusercontent.com/123163060/235751859-60772cef-ca5a-4f08-9e15-22e33d1fc99f.jpg)
 
