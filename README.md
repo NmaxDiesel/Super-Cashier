@@ -62,7 +62,7 @@ Platform yang saya gunakan ialah Google Colab.
 
 5. Program selesai ketika fungsi loop sudah dihentikan oleh konsumen.
 Hal ini dapat dilakukan apabila konsumen memilih menu nomor 9.
-7.Terlihat juga apa yang bisa program lakukan apabila ada kesalahan dalam penginputan data oleh konsumen.
+6.Terlihat juga apa yang bisa program lakukan apabila ada kesalahan dalam penginputan data oleh konsumen.
 <img width="1578" alt="Screenshot 2023-04-16 at 18 25 43" src="https://user-images.githubusercontent.com/123163060/232306760-449a7478-5e53-4558-ba28-376c045a6666.png">
 
 ## Hasil Test Case
