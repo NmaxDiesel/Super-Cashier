@@ -57,13 +57,10 @@ Platform yang saya gunakan ialah Google Colab.
 3. Masukkan perhitungan diskon terhadap barang yang sudah ditetapkan.
 <img width="1672" alt="Screenshot 2023-04-16 at 18 21 32" src="https://user-images.githubusercontent.com/123163060/232306800-443af1df-bd82-4825-86b2-e1ea871a1ae9.png">
 
-4. Fungsi loop dimulai.
+4. Fungsi loop dimulai. Program selesai ketika fungsi loop sudah dihentikan oleh konsumen. Hal ini dapat dilakukan apabila konsumen memilih menu nomor 9.
 <img width="1670" alt="Screenshot 2023-04-16 at 18 23 04" src="https://user-images.githubusercontent.com/123163060/232306796-0b5fd664-73fe-48c1-a74e-ec6a19501af1.png">
 
-5. Program selesai ketika fungsi loop sudah dihentikan oleh konsumen.
-Hal ini dapat dilakukan apabila konsumen memilih menu nomor 9.
-
-6. Terlihat juga apa yang bisa program lakukan apabila ada kesalahan dalam penginputan data oleh konsumen.
+5. Terlihat juga apa yang bisa program lakukan apabila ada kesalahan dalam penginputan data oleh konsumen.
 <img width="1578" alt="Screenshot 2023-04-16 at 18 25 43" src="https://user-images.githubusercontent.com/123163060/232306760-449a7478-5e53-4558-ba28-376c045a6666.png">
 
 ## Hasil Test Case
