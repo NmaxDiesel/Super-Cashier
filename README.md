@@ -6,7 +6,7 @@ Cashier program written using python for customer self service system.
 
 
 ## Background 
-Terdapat bisnis coffeeshop besar di daerah Jabodetabek, sang owner ingin melakukan ekspansi ke wilayah lain. Owner berniat melakukan inovasi pada bisnisnya dengan membuat sebuah sistem kasir yang bisa beroperasi secara self-service dengan harapan agar customer bisa langsung memasukkan item yang dibeli, jumlah item yang dibeli, dan harga item yang dibeli serta customer yang tidak berada di kota tersebut bisa membeli barang dari supermarket tersebut. 
+There is a large coffeeshop business in the Greater Jakarta area, the owner wants to expand to other regions. Owner berniat melakukan inovasi pada bisnisnya dengan membuat sebuah sistem kasir yang bisa beroperasi secara self-service dengan harapan agar customer bisa langsung memasukkan item yang dibeli, jumlah item yang dibeli, dan harga item yang dibeli serta customer yang tidak berada di kota tersebut bisa membeli barang dari supermarket tersebut. 
 
 ## Tujuan Project
 Sebagai software engineer, saya diminta untuk membuatkan program dengan tujuan agar konsumen coffeeshop bisa berbelanja secara self service dengan tindakan seperti:
